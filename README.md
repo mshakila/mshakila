@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mshakila
+- 👋 Hi, I’m M.Shakila
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently revising ML , Deep learning techniques, Power BI , MySQL, Hadoop
 - 💞️ I’m looking to collaborate on Ml projects and also interested in DS jobs
